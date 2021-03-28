@@ -1,0 +1,6 @@
+# SMS-Project
+Student Managament System
+REQUIREMENTS- XAMPP SERVER
+IMPORT ALL FILES
+IMPORT sms.sql in PHPMYADMIN IN A BROWSER
+OPEN login.php.
